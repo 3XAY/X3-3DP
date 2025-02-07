@@ -75,3 +75,4 @@ Total hours so far: 1.5
     - Build plate
     - PTFE tube
     - Silicone sock (Bambu lab)
+    - Nozzle cleaning (Like the Bambu Lab A1 Mini, completely optional, would be nice to have as a pre-print macro in Klipper)
