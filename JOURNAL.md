@@ -1,6 +1,6 @@
 Made by: @3XAY <br>
 Repository link: https://github.com/3XAY/X3-3DP/ <br>
-Total hours so far: 1.5
+Total hours so far: 3.5
 
 
 * [X] I have a 3D printer or will be getting one before March 21st
@@ -19,7 +19,6 @@ Total hours so far: 1.5
 - Auto bed leveling
 - Klipper support
 - Screen is optional (planning on using web GUI)
-- Closed loop motors
 - Built=in belt tensioner (like Sovol SV07)
 - Video monitoring (optional)
 - Use a custom PCB (that can include the LEDs + accelerometer and would be super close to the nozzle)
@@ -76,3 +75,19 @@ Total hours so far: 1.5
     - PTFE tube
     - Silicone sock (Bambu lab)
     - Nozzle cleaning (Like the Bambu Lab A1 Mini, completely optional, would be nice to have as a pre-print macro in Klipper)
+   
+    ***
+### Day 2 (2/16/25):
+**Goal for the day:** Make the BOM <br>
+**Why is this goal useful:** Helps me finalize the cost of everything + lets me know what parts I'm using so I can start the CAD <br>
+**Time spent:** 2hrs
+
+#### Useful links:
+- [Frames](https://youtu.be/E5FqrycYL40?si=j6Fz1LKAvbOmlVJB)
+- [3D printed frames](https://youtu.be/5remLFeUT-k?si=JSoOi04MDNEIEDqR) (Not happening)
+- [Motor controller, M8P](https://youtu.be/wPqDxiU8-5A?si=cE4t9tCw5YM5Fe2U)
+- [Motor controller, E3EZ](https://youtu.be/B2tAd0lNgnc?si=KCBrcj5Dog0s6xvy)
+- [Choosing the motors](https://youtu.be/RleJKkO6E64?si=XVJ-940wYRUIblx8)
+
+#### Info collected:
+[BOM Spreadsheet](https://docs.google.com/spreadsheets/d/12bk38MyKBaCSnbDqkn_daGvMrIUmXt25-RTHfP_S9RE/edit?usp=sharing)
